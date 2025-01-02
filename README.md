@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hasan Burak Songur</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Java, SQL, Spring Boot, Angular**
+- 🌱 I’m using **Java, SQL, Spring Boot, Angular**
 
 - 📫 How to reach me **hasanburaksongur@gmail.com**
 
