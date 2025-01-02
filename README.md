@@ -1,13 +1,9 @@
 <h1 align="center">Hi, I'm Hasan Burak Songur</h1>
-<h3 align="center">A passionate Software Developer Intern</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🌱 I’m currently learning **Java, SQL, Spring Boot, Angular**
 
-- 👨‍💻 All of my projects are available at [https://hburaksongur.vercel.app/](https://hburaksongur.vercel.app/)
-
 - 📫 How to reach me **hasanburaksongur@gmail.com**
-
-- 📄 Know about my experiences [https://hburaksongur.vercel.app/img/CV-HASAN-BURAK-SONGUR.pdf](https://hburaksongur.vercel.app/img/CV-HASAN-BURAK-SONGUR.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
