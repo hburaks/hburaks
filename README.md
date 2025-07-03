@@ -1,17 +1,66 @@
-<h1 align="center">Hi, I'm Hasan Burak Songur</h1>
-<h3 align="center">A passionate Software Developer</h3>
+# Hasan Burak Songur
 
-- 🌱 I’m using **Java, SQL, Spring Boot, Angular**
+### Backend Developer | Java & Spring Boot Enthusiast | Financial Systems Focused
 
-- 📫 How to reach me **hasanburaksongur@gmail.com**
+İzmir, Türkiye  
+hasanburaksongur@gmail.com  
+[LinkedIn](https://linkedin.com/in/hasanburaksongur) | [GitHub](https://github.com/hburaks)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hasanburaksongur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanburaksongur" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hburaks&show_icons=true&locale=en&layout=compact" alt="hburaks" /></p>
+I'm a Backend Developer with 2+ years of experience building secure and scalable enterprise systems using Java, Spring Boot, and PostgreSQL. Currently working at Allianz Türkiye, where I design and maintain backend services for pension (BES) and life insurance products.
 
+I specialize in layered backend architecture, BFF (Backend for Frontend) design patterns, and RESTful API development. I'm also experienced in CI/CD pipelines, Docker, and Kubernetes deployments. My domain focus on financial services has given me strong insight into contract lifecycles and complex business rules.
+
+---
+
+## 💼 Professional Focus
+- 🔁 REST API & BFF Architecture
+- 🧠 Domain-driven Design & Financial Product Logic
+- 🚀 CI/CD, Docker, Kubernetes (basic)
+- 🧰 Clean Architecture, Repository & DTO patterns
+- 📊 Performance Monitoring with Dynatrace
+
+---
+
+## 🛠️ Technologies I Use
+
+**Languages & Frameworks:**  
+`Java`, `Spring Boot`, `SQL`, `PL/SQL`, `JavaScript`, `TypeScript`
+
+**Frontend (Basic):**  
+`Angular`, `HTML`, `CSS`, `Tailwind`, `Bootstrap`
+
+**Tools & Platforms:**  
+`Atlassian Tools`, `Git`, `Docker`, `Postman`, `Jira`, `Confluence`, `IntelliJ IDEA`, `GitHub Actions`
+
+**Practices:**  
+`Agile`, `Scrum`, `CI/CD`, `Clean Code`, `Unit Testing`, `BFF Design`, `Service Layer Architecture`
+
+**Familiar With:**  
+`Redis`, `Kubernetes`, `Microservices`, `RabbitMQ`
+
+---
+
+## 🔧 Notable Projects
+
+### Psychologist Management Platform *(Full Stack Project)*
+A web platform for psychologists to manage clients, sessions, and tests.  
+- 🔐 Spring Boot backend with JWT auth and role-based access control  
+- 🧱 Modular service structure with layered architecture  
+- 🌐 Angular frontend with responsive design
+- ⚙️ CI/CD with Docker & GitHub Actions
+
+[🔗 GitHub Repo](https://github.com/hburaks/psk-full-stack)
+
+---
+
+## 🎓 Education & Certificates
+- 🎓 BArch, Istanbul Technical University *(2016–2021)*
+- 🎖️ Allianz GeleceğimAll Programı – *Completed: 2023*
+
+---
+
+Feel free to connect or collaborate!
